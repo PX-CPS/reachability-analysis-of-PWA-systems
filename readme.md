@@ -1,6 +1,6 @@
-# Reachability Analysis for Switched Systems
+# Data-Driven Reachability Analysis for Piecewise Affine Systems
 
-This project implements reachability analysis techniques for pwa systems using matrix zonotopes and constraint zonotopes.
+This project implements data-driven reachability analysis techniques for piecewise affine systems using matrix zonotopes and constraint zonotopes, as published in the paper "Data-Driven Reachability Analysis for Piecewise Affine System".
 
 ## Prerequisites
 
@@ -31,3 +31,4 @@ This project is provided for academic and research purposes.
 ## Acknowledgements
 
 This work builds upon the CORA and zonoLAB toolboxes for set-based analysis.
+
