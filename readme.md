@@ -1,6 +1,9 @@
-# Data-Driven Reachability Analysis for Piecewise Affine Systems
+# Data-Driven Reachability Analysis for Piecewise Affine System
+*Peng Xie, Johannes Betz, Davide M. Raimondo, Amr Alanwar*
 
-This project implements data-driven reachability analysis techniques for piecewise affine systems using matrix zonotopes and constraint zonotopes, as published in the paper "Data-Driven Reachability Analysis for Piecewise Affine System".
+This code is associated with the paper:
+
+Paper link: [https://arxiv.org/abs/2504.04362](https://arxiv.org/abs/2504.04362)
 
 ## Prerequisites
 
@@ -31,4 +34,3 @@ This project is provided for academic and research purposes.
 ## Acknowledgements
 
 This work builds upon the CORA and zonoLAB toolboxes for set-based analysis.
-
